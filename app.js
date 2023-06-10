@@ -23,8 +23,8 @@ app.post('/send-email', async (req, res) => {
       // For example, you can use Gmail SMTP:
       service: 'Gmail',
       auth: {
-        user: 'federer.roger0034@gmail.com',
-        pass: 'qasebpzqbxowoyev' //qasebpzqbxowoyev
+        user: 'drbksharma90@gmail.com',
+        pass: 'gqorsdqslpbpppxn' //qasebpzqbxowoyev
       },
     });
 
