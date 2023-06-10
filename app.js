@@ -24,7 +24,7 @@ app.post('/send-email', async (req, res) => {
       service: 'Gmail',
       auth: {
         user: 'drbksharma90@gmail.com',
-        pass: 'gqorsdqslpbpppxn' //qasebpzqbxowoyev
+        pass: 'wvrqxdijhiszytfw' //qasebpzqbxowoyev
       },
     });
 
